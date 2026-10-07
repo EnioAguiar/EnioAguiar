@@ -34,6 +34,7 @@ O repositório do backend é privado porque contém a lógica de detecção de t
 
 ## Outros projetos
 
+- **[PRC Data Challenge 2026](https://github.com/EnioAguiar/prc-taxiout-2026)**: competição da EUROCONTROL e da OpenSky Network para prever o tempo de taxiamento de decolagens em 10 aeroportos europeus. Equipe de uma pessoa, com LightGBM e CatBoost. 25º lugar entre 143 equipes no placar público em 3/10/2026, com a competição ainda em andamento.
 - **[PolyMarket Bot](https://github.com/EnioAguiar/PolyMarket)**: bot de mercados preditivos em TypeScript, orientado a eventos via WebSocket, com módulo de controle de risco e execução real de ordens na Polymarket (rede Polygon).
 - **[CryptoPay](https://github.com/EnioAguiar/gatewaycrypto)**: gateway de pagamentos em cripto no estilo Stripe, com SDK em TypeScript, smart contract em Solidity e monitoramento da blockchain. Roda em testnet (Tron Nile).
 - **[PostPulsar](https://github.com/EnioAguiar/post-pulsar)**: SaaS que gerava posts para redes sociais a partir de um artigo, usando a API do Gemini, com Stripe e OAuth2 para cinco redes. Ficou no ar de agosto de 2025 a março de 2026.
@@ -44,6 +45,6 @@ O repositório do backend é privado porque contém a lógica de detecção de t
 
 **Uso no dia a dia:** Python, FastAPI, TypeScript, Node.js, PostgreSQL, SQL, Supabase, Docker, Git, Linux
 
-**Também uso:** React, Next.js, Astro, Tailwind CSS, WebSocket, OAuth2, Stripe
+**Também uso:** React, Next.js, Astro, Tailwind CSS, WebSocket, OAuth2, Stripe, LightGBM, CatBoost
 
 **IA:** integração com APIs de LLM (OpenAI, Anthropic, Gemini), modelos locais com Ollama, servidores MCP
