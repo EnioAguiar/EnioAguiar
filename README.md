@@ -1,6 +1,6 @@
 # Enio Aguiar
 
-Desenvolvedor backend (Python, TypeScript, Node.js, FastAPI, PostgreSQL) com foco em APIs e integração com IA. Moro em Aparecida de Goiânia (GO) e busco minha primeira vaga júnior, de preferência remota.
+Desenvolvedor backend (Python, TypeScript, Node.js, FastAPI, PostgreSQL) com foco em APIs e integração com IA. Construo e opero produtos próprios em produção desde 2025. Moro em Aparecida de Goiânia (GO) e busco vaga de desenvolvedor pleno, de preferência remota.
 
 Sou formado em Análise e Desenvolvimento de Sistemas (UNIP). Sempre trabalhei no negócio da minha família e, desde 2025, me dedico a desenvolvimento, criando e mantendo projetos próprios.
 
